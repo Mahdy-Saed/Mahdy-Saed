@@ -1,9 +1,9 @@
 ##   Welcom In My profile
 ------------------------------
 ### 👩‍💻 About Me:
-Iam sitll learning in Back-end Devlopoer
-Thas it..
-GoodBy See You later Enjoy ...
+-Iam sitll learning in Back-end Devlopoer
+-Thas it..
+-GoodBy See You later Enjoy ...
 
 <!--
 **Mahdy-Saed/Mahdy-Saed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
